@@ -1,0 +1,31 @@
+Day,Temperature,Humidity,PM2.5,PM10,AQI,Category
+1,28,84,114,164,134,Unhealthy for Sensitive Groups
+2,36,43,67,230,132,Unhealthy for Sensitive Groups
+3,32,60,34,101,61,Moderate
+4,29,36,59,41,52,Moderate
+5,28,54,101,191,137,Unhealthy for Sensitive Groups
+6,32,62,130,62,103,Unhealthy for Sensitive Groups
+7,32,81,72,77,74,Moderate
+8,25,41,43,180,98,Moderate
+9,29,78,173,91,140,Unhealthy for Sensitive Groups
+10,24,42,143,245,184,Unhealthy
+11,23,81,60,66,62,Moderate
+12,33,69,176,128,157,Unhealthy
+13,27,48,34,201,101,Unhealthy for Sensitive Groups
+14,23,51,64,133,92,Moderate
+15,22,70,84,243,148,Unhealthy for Sensitive Groups
+16,33,84,108,248,164,Unhealthy
+17,33,74,90,64,80,Moderate
+18,38,38,28,222,106,Unhealthy for Sensitive Groups
+19,31,36,107,130,116,Unhealthy for Sensitive Groups
+20,37,40,148,204,170,Unhealthy
+21,36,76,155,235,187,Unhealthy
+22,36,38,82,160,113,Unhealthy for Sensitive Groups
+23,33,63,158,30,107,Unhealthy for Sensitive Groups
+24,24,52,100,34,74,Moderate
+25,26,60,155,247,192,Unhealthy
+26,28,78,52,171,100,Moderate
+27,30,68,142,132,138,Unhealthy for Sensitive Groups
+28,28,44,24,56,37,Good
+29,25,70,60,166,102,Unhealthy for Sensitive Groups
+30,35,48,47,236,123,Unhealthy for Sensitive Groups
